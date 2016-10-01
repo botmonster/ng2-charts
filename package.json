@@ -46,10 +46,10 @@
   },
   "homepage": "https://github.com/valor-software/ng2-charts#readme",
   "peerDependencies": {
-    "@angular/core": "2.0.0",
-    "@angular/compiler": "2.0.0",
-    "@angular/common": "2.0.0",
-    "@angular/forms": "2.0.0"
+    "@angular/core": "2.0.1",
+    "@angular/compiler": "2.0.1",
+    "@angular/common": "2.0.1",
+    "@angular/forms": "2.0.1"
   },
   "dependencies": {
     "chart.js": "2.2.2"
